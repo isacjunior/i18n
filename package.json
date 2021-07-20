@@ -10,7 +10,7 @@
   "dependencies": {
     "i18n-js": "^3.3.0",
     "react": "16.8.6",
-    "react-native": "0.60.5"
+    "react-native": "0.62.3"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
